@@ -11,8 +11,13 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.JenamSalesSheet"
+        android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
         tools:targetApi="31">
+        <activity
+            android:name=".SalesActivity"
+            android:exported="false"
+            android:label="@string/title_activity_sales"
+            android:theme="@style/NoActionBar" />
         <activity
             android:name=".MainActivity"
             android:exported="true">

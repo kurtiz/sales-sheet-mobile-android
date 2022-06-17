@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Jenam Sales Sheet</string>
+    <string name="sc_pw">Powered By</string>
+    <string name="sc_credits">Papilio Technologies</string>
+    <string name="title_activity_sales">SalesActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
 </resources>
