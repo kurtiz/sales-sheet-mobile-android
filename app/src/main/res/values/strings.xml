@@ -5,4 +5,7 @@
     <string name="title_activity_sales">SalesActivity</string>
     <string name="tab_text_1">Tab 1</string>
     <string name="tab_text_2">Tab 2</string>
+    <string name="add">Add</string>
+    <string name="records">Records</string>
+    <string name="logo_desc">Jenam Logo</string>
 </resources>
