@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_add"
+        android:enabled="true"
+        android:icon="@drawable/ic_round_add_circle"
+        android:title="@string/add"
+        app:cnb_iconColor="@color/green"
+        app:cnb_textColor="@color/green"
+        />
+
+    <item
+        android:id="@+id/nav_records"
+        android:enabled="true"
+        android:icon="@drawable/ic_round_receipt"
+        android:title="@string/records"
+        app:cnb_iconColor="@color/green"
+        app:cnb_textColor="@color/green"
+        />
+</menu>
